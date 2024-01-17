@@ -1,0 +1,36 @@
+.container{
+    font-family: 'Poppins', sans-serif;
+}
+form {
+    background-color: #fff;
+    max-width: 700px;
+    margin: 50px auto;
+    padding: 30px 20px;
+    box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+}
+label{
+    font-weight: 600px;
+    color: black;
+    font-weight:500;
+    
+}
+strong{
+    color: red;
+}
+td {
+    padding: 15px;
+    color:#395B64;
+}
+tr:nth-child(even) {
+    background-color:#A6B5AE;
+    border-bottom: 1px solid black;
+}
+button{
+    padding: 10px;
+    font-weight: 500;
+    
+}
+
+@med
+
+
